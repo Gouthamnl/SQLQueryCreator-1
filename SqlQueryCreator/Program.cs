@@ -1,5 +1,6 @@
 ﻿using SqlQueryCreator.Operations;
 using QueryBuilder.Services;
+using System;
 
 namespace SqlQueryCreator
 {
